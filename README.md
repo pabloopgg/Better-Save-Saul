@@ -4,4 +4,6 @@ Platform game based on Better Caul Saul tv show. Basically, It is a mod from T-R
 Have fun and Better Call Saauuul GOODAMN!(?)
 
 
-A big hug to my friend Gabriel de Oliveira, without you this project would have no life (and neither would sprinters). Thanks man
+A big hug to my friend Gabriel de Oliveira, without you this project would have no life (and neither would sprinters). Thanks man. 
+
+
